@@ -1,0 +1,15 @@
+﻿  FontAtlas.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\src\FontAtlas.cpp': No such file or directory
+  FTLabel.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\src\FTLabel.cpp': No such file or directory
+  GLFont.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\src\GLFont.cpp': No such file or directory
+  GLUtils.cpp
+c:\users\nshev\desktop\hochschule\cg\cgtutorial - minimal\external\glfont\glfont-master\test\include\glutils\glutils.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  GLWindow.cpp
+c:\users\nshev\desktop\hochschule\cg\cgtutorial - minimal\external\glfont\glfont-master\test\include\glwindow\glwindow.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  main.cpp
+c:\users\nshev\desktop\hochschule\cg\cgtutorial - minimal\external\glfont\glfont-master\test\include\glwindow\glwindow.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  TestWindow.cpp
+c:\users\nshev\desktop\hochschule\cg\cgtutorial - minimal\external\glfont\glfont-master\test\include\glwindow\glwindow.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Generating Code...
